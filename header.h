@@ -5,8 +5,8 @@
 #ifndef CTUTORIAL_HEADER_H
 #define CTUTORIAL_HEADER_H
 
-int add(int a, int b) {
-    return a + b;
+int addd(int a, int b, int c) {
+    return a + b + c;
 }
 
 #endif //CTUTORIAL_HEADER_H
